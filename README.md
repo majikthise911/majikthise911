@@ -10,6 +10,10 @@
   <img align="left" alt="Jordan Clayton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="https://t.me/jordan_clayton">
+  <img align="left" alt="Jordan Clayton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
 <a href="mailto:jordan_clayton@proton.me">
   <img align="left" alt="Jordan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
 </a>
