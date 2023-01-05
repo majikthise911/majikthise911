@@ -11,7 +11,7 @@
 </a>
 
 <a href="mailto:jordan_clayton@proton.me">
-  <img align="left" alt="Jordan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Jordan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
 </a>
 <br />
 <br/>
