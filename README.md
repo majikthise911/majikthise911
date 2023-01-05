@@ -10,7 +10,7 @@
   <img align="left" alt="Jordan Clayton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="jordan_clayton@proton.me">
+<a href="mailto:jordan_clayton@proton.me">
   <img align="left" alt="Jordan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
@@ -39,8 +39,6 @@
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](0x71b5A10A708984c9EA7cD69b62E21083bcEf4Ef5)
-
 ❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Jordan-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/jordan_clayton)
 
 ❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Jordan_Clayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/jordan-clayton/)
@@ -63,4 +61,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Your Majesty 
 - ⚡ Fun fact: I have sick stylezzz
+
+❤️ Support me : (Give me your money 💰) So that I can upgrade my slow Desktop 🥺😌... [![Donate](https://img.shields.io/badge/$$-Support-green.svg?style=flat)](0x71b5A10A708984c9EA7cD69b62E21083bcEf4Ef5)
 -->
