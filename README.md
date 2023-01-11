@@ -25,10 +25,7 @@
 - 🔭 I’m currently working on https://wealthwise.streamlit.app/
 - 🌱 I’m currently learning about how to incorporate AI/ML into personal Fianance and Blockchain 
 - 👯 I’m looking to collaborate on AI/ML and or Blockchain projects 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: Your Majesty 
-- ⚡ Fun fact: I have sick stylezzz
 -->
 ### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
