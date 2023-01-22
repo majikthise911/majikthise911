@@ -40,7 +40,7 @@
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Jordan-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/jordan_clayton)
+❤️ Mentor me : You can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Jordan-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/jordan_clayton)
 
 ❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Jordan_Clayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/jordan-clayton/)
 or [![Gmail Badge](https://img.shields.io/badge/-Protonmail-black?style=flat-square&logo=Protonmail)](mailto:jordan_clayton@proton.me)
