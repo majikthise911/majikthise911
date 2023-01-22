@@ -40,9 +40,9 @@
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
-❤️ Mentor me : You can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Jordan-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/jordan_clayton)
+❤️ Start a conversation : You can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Jordan-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/amanatg0/)](https://t.me/jordan_clayton)
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Jordan_Clayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/jordan-clayton/)
+❤️ Offer work : Have a project you need help on? Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Jordan_Clayton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/jordan-clayton/)
 or [![Gmail Badge](https://img.shields.io/badge/-Protonmail-black?style=flat-square&logo=Protonmail)](mailto:jordan_clayton@proton.me)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/majikthise911) and [![Twitter Badge](https://img.shields.io/badge/-@JordanJClayton2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jordanjclayton2)](https://twitter.com/JordanJClayton2)
