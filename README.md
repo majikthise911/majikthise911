@@ -22,7 +22,7 @@
 
 ### ✨ Quick Facts
 
-- 🔭 I’m currently working on https://wealthwyze.streamlit.app/
+- 🔭 I’m currently working on https://dca-rsi.streamlit.app/
 - 🌱 I’m currently learning about how to incorporate AI/ML into personal Fianance and Blockchain 
 - 👯 I’m looking to collaborate on AI/ML and or Blockchain projects 
 - 😄 Pronouns: Your Majesty 
